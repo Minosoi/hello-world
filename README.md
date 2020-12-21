@@ -1,2 +1,2 @@
 # hello-world
-Beginner repository
+Hello! im a begginer here. so please be patience on me
